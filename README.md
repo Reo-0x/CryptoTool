@@ -59,14 +59,6 @@ python cryptotool.py decrypt rsa encrypted_file.bin decrypted_file.txt --key-fil
 - Hybrid encryption for RSA (AES+RSA) to securely handle files of any size
 - Secure padding (OAEP) for RSA encryption
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -75,9 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made by Reo-0x (https://github.com/Reo-0x)
 
-## Disclaimer
-
-This tool is provided for educational and legitimate purposes only. Users are responsible for complying with applicable laws and regulations regarding encryption in their jurisdiction.
 
 ## Security Notice
 
