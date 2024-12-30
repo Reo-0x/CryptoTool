@@ -13,6 +13,8 @@ A secure and user-friendly command-line tool for file encryption and decryption,
 - Command-line interface with argument parsing
 - Hybrid encryption for RSA (AES+RSA) to handle large files
 
+![image](https://github.com/user-attachments/assets/c9e8f499-646c-4c7e-b4d9-03dd39369d12)
+
 ## Requirements
 
 ```
