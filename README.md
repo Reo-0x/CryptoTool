@@ -27,11 +27,6 @@ git clone https://github.com/Reo-0x/CryptoTool.git
 cd CryptoTool
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### AES Encryption
